@@ -1,0 +1,8 @@
+namespace:
+  name: test
+ 
+image:
+  repository: squoc/python-helloworld 
+  tag: v1.0.0
+
+replicaCount: 3
